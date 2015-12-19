@@ -1,0 +1,13 @@
+/*---------------------------- Login variables --------------------------*/
+
+email
+
+password
+
+/*------------------------ Main Sign Up Variables -----------------------*/
+
+firstName
+
+lastName
+
+SignUpEmail
